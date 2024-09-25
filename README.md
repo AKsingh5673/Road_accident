@@ -1,2 +1,2 @@
-# Road_accident
-This Power BI dashboard visually analyzes road accident data, revealing key insights on accident locations, causes, severity, and timing. Through interactive charts, it identifies patterns and trends to enhance road safety and inform traffic management decisions, making complex data accessible and actionable for stakeholders.
+# Road_accident_dashboard
+This repository holds a Power BI dashboard that breaks down road accident data into clear, meaningful visuals. It helps uncover where accidents happen most often, what causes them, how severe they tend to be, and when they’re most likely to occur. With easy-to-understand charts and interactive features, this dashboard is designed to help identify patterns and trends that can make our roads safer and guide better traffic management decisions.
